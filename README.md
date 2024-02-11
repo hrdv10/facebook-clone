@@ -6,7 +6,7 @@ This project was bootstrapped with Create React App.
 
 Screenshot
 demo
-ss/facebook_home2.png
+ ![image] ()
 
 Available Scripts
 In the project directory, you can run:
