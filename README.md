@@ -6,7 +6,7 @@ This project was bootstrapped with Create React App.
 
 Screenshot
 demo
- ![image] ()
+ ![image] (https://github.com/hrdv10/facebook-clone/tree/m/ss)
 
 Available Scripts
 In the project directory, you can run:
