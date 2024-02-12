@@ -40,5 +40,5 @@ See the section about running tests for more information.
 - **Other**: Socket.io (for real-time updates)
 
 ## Installation
-clone this repostory git clone :  
+clone this repostory git clone :  https://github.com/hrdv10/facebook-clone.git
 
