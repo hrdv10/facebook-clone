@@ -7,7 +7,7 @@ This project was bootstrapped with Create React App.
 Screenshot
 demmo
  
- ![image](https://github.com/hrdv10/Amazon-clone/assets/89665648/b14661a3-5c24-4770-a178-cbdfdfd82183)
+ ![image](https://github.com/hrdv10/facebook-clone/blob/m/ss/facebook_home2.png)
 
 Available Scripts
 In the project directory, you can run:
