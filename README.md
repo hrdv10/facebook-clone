@@ -5,8 +5,9 @@ This project is just a clone of Facebook webpage. Its not related to any officia
 This project was bootstrapped with Create React App.
 
 Screenshot
-demo
-https://github.com/hrdv10/facebook-clone/blob/m/ss/facebook_home2.png
+demmo
+ 
+ ![image](https://github.com/hrdv10/Amazon-clone/assets/89665648/b14661a3-5c24-4770-a178-cbdfdfd82183)
 
 Available Scripts
 In the project directory, you can run:
